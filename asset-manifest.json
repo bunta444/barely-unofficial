@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/barely-unofficial/static/css/main.1f47a1d4.css",
+    "main.js": "/barely-unofficial/static/js/main.e116819b.js",
+    "static/js/496.19d6b9a9.chunk.js": "/barely-unofficial/static/js/496.19d6b9a9.chunk.js",
+    "static/media/vortax.otf": "/barely-unofficial/static/media/vortax.bfda8176ae271ec66a98.otf",
+    "index.html": "/barely-unofficial/index.html",
+    "main.1f47a1d4.css.map": "/barely-unofficial/static/css/main.1f47a1d4.css.map",
+    "main.e116819b.js.map": "/barely-unofficial/static/js/main.e116819b.js.map",
+    "496.19d6b9a9.chunk.js.map": "/barely-unofficial/static/js/496.19d6b9a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f47a1d4.css",
+    "static/js/main.e116819b.js"
+  ]
+}
